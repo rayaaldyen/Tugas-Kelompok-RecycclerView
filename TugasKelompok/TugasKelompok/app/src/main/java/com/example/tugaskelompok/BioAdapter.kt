@@ -8,8 +8,8 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.imageview.ShapeableImageView
 
-class BioAdapter (private val bioList : ArrayList<Biodata>) : RecyclerView.Adapter<BioAdapter.MyViewHolder>(){
-//    RecyclerView.Adapter<BioAdapter.MyViewHolder>() {
+class BioAdapter (private val bioList : ArrayList<Biodata>) : 
+    RecyclerView.Adapter<BioAdapter.MyViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
         val itemView = MyViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.item, parent,false))
