@@ -6,7 +6,7 @@ Yonathan Fanuel Mulyadi - 205150207111022<br>
 <br>
 Pembagian Tugas
 1. Elang Sotya Putra Dumipta<br>
--> Main Activity<br>
+-> Main Activity & Model<br>
 2. Raya Aldyen Dessario <br>
 -> Adapter<br>
 3. Yonathan Fanuel Mulyadi <br>
